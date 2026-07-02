@@ -1,7 +1,7 @@
 # CV Website
 Daniel Marcinkowski — Personal CV Website (IS1113 Assignment, Part 2)
 
-**Live preview:** meetdanielme.github.io/UCC-IS1113-CV-Website/
+**Live preview:** https://meetdanielme.github.io/UCC-IS1113-CV-Website/
 
 ## References & Acknowledgement of AI Use
 
